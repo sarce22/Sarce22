@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/5tMQDJlcOcYAAAAM/siuuu.gif"  />
+<h2 align="left">Conocimientos</h2>
 
 ###
 
@@ -42,6 +42,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/9e/70/a9/9e70a92f30e7c9606b9a63760898e767.gif"  />
 
 ###
 
