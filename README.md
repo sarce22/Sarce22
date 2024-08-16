@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Sebastian, estudiante de Ingeniería de Software curioso por el mundo de la tecnologia y el desarrollo de software.Ademas, Con un dominio del idioma inglés!!!.</h1>
+<h1 align="center">¡Hola! Soy Sebastian, estudiante de Ingeniería de Software curioso por el mundo de la tecnologia y el desarrollo de software.</h1>
 
 ###
 
