@@ -2,7 +2,9 @@
 
 **Software Developer** | **Software Engineering Student**
 
-Desarrollador de software especializado en aplicaciones web full-stack y sistemas empresariales. Estudiante de último semestre de Ingeniería de Software con enfoque en tecnologías modernas.
+Desarrollador de software especializado en aplicaciones web full-stack y sistemas empresariales. Estudiante de último semestre de Ingeniería de Software con enfoque en tecnologías modernas y arquitecturas escalables.
+
+🌐 **[Ver Portafolio](https://sarce22.github.io/Portafolio-Web/)**
 
 ---
 
@@ -74,6 +76,9 @@ Desarrollador de software especializado en aplicaciones web full-stack y sistema
 ## Contacto
 
 <div align="center">
+  <a href="https://sarce22.github.io/Portafolio-Web/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/sebastian-arce-5266b326a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="LinkedIn" />
   </a>
