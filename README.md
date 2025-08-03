@@ -30,43 +30,43 @@ Desarrollador de software especializado en aplicaciones web full-stack y sistema
 
 ### Backend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="Node.js" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
 </div>
 
 ### Frontend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="TypeScript" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
 </div>
 
 ### Databases & Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="MongoDB" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
 </div>
 
 ---
