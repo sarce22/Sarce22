@@ -1,5 +1,16 @@
 # Sebastian Arce Pareja
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Developer;Software+Engineering+Student" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  ![Status](https://img.shields.io/badge/Status-Available%20for%20opportunities-brightgreen?style=for-the-badge)
+  ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge)
+  
+</div>
+
 **Software Developer** | **Software Engineering Student**
 
 Desarrollador de software especializado en aplicaciones web full-stack y sistemas empresariales. Estudiante de último semestre de Ingeniería de Software con enfoque en tecnologías modernas y arquitecturas escalables.
@@ -15,7 +26,7 @@ Desarrollador de software especializado en aplicaciones web full-stack y sistema
 
 ---
 
-## Stack Tecnológico
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Stack Tecnológico
 
 ### Backend
 <div align="center">
@@ -60,7 +71,9 @@ Desarrollador de software especializado en aplicaciones web full-stack y sistema
 
 ---
 
-## Formación Académica
+
+
+## 🎓 Formación Académica
 
 **Software Engineering** - EAM (Escuela de Administración y Mercadotecnia del Quindío)  
 *Final Semester - 2021 - Present*
@@ -73,7 +86,7 @@ Desarrollador de software especializado en aplicaciones web full-stack y sistema
 
 ---
 
-## Contacto
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Contacto
 
 <div align="center">
   <a href="https://sarce22.github.io/Portafolio-Web/" target="_blank">
@@ -93,5 +106,17 @@ Desarrollador de software especializado en aplicaciones web full-stack y sistema
 <br>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarce22&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
   <i>📍 Montenegro, Quindío, Colombia</i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" alt="Footer Wave" />
 </div>
